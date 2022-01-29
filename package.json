@@ -1,0 +1,9 @@
+{
+  "name": "docker-exercises",
+  "version": "0.1.0",
+  "author": "Aguirre Gonzalo Adolfo <gonza.a.aguirre@gmail.com> (https://github.com/gonza7aav)",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
